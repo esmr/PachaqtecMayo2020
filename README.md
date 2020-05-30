@@ -1,4 +1,3 @@
-<p align="center">
 # BACKEND - PACHAQTEC - MAYO2020
 
 ![enter image description here](https://www.pachaqtec.edu.pe/img/whatsappImageBE.png)
@@ -23,8 +22,9 @@ Construye los algoritmos y desarrolla la lógica detrás del funcionamiento de w
 
 - Herramientas de Colaboracion 
 - Github
+
 [![Watch the video](https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png)](https://www.youtube.com/watch?v=hWglK8nWh60)
-**VIDEO YOUTUBE:** GIT / GITHUB Tutorial en Español - Parte 1   Inicio Rápido para Principiantes 
+**VIDEO YOUTUBE:** GIT / GITHUB Inicio Rápido para Principiantes 
 
 # Visitenos: [![Facebook](https://icon-icons.com/icons2/1269/PNG/64/1497553311-103_84832.png)](https://fb.com)
 
